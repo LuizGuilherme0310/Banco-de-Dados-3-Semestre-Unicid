@@ -13,3 +13,4 @@ Repositório dedicado aos estudos de SQL e banco de dados. Aqui estão documenta
 * `Sprint_3.2.sql`: Consultas avançadas com agrupamentos (`GROUP BY`) e condições (`HAVING`).
 * `Sprint_3.3.sql`: Continuação dos exercicios.
 * `Atividade`: Atividade surpresa.
+* `ListaDeExercicios01`: Lista de exercicios passados na aula.
